@@ -1,5 +1,3 @@
-## **README.md Descontraído para o seu Projeto**
-
 ### **Título: Busca Rápida de Atletas Brasileiros**
 
 **O que faz essa aplicação?**
